@@ -9,7 +9,7 @@ You'll need to login to `brainimaging.labs.vu.nl`, with password and username as
 
 ## List of students
 
-Your login is the `student_XX` string in front of your name in the table below. Your password is `prf_workshop_YOUR_EMAIL_ADDRESS`. This list will be deleted on December 6, 2018.
+Your login is the `student_XX` string in front of your name in the table below. 
 
 |login         | First and last name       |
 |--------------|---------------------------|
